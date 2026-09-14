@@ -1,0 +1,1 @@
+"""Registered dashboard profiles."""
